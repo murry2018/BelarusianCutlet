@@ -12,6 +12,8 @@
 1. 리포지토리 메뉴의 issues 탭에서 현재 주차에 해당하는 이슈를 찾습니다.
 2. 만약 현재 주차에 해당하는 이슈가 없다면, 당신이 이번 문제를 가장 먼저 푼 것이므로 새 이슈를 만듭니다.
 3. 이슈 제목은 [N월 M주차] 형식으로 만듭니다. 내용의 형식은 자유입니다.
+
+   > 덧글 하나에 모든 문제풀이를 한꺼번에 적어도 되고, 문제마다 덧글 하나씩 써도 괜찮습니다.
 4. 코드를 쓸 때는 다음과 같이 쓰면 됩니다.
    <pre>
    ```c++
@@ -23,14 +25,22 @@
    ```
    </pre>
 
-만약 마크다운 문법에 대해 더 궁금한 게 있다면 매뉴얼을 참고하세요.
+## 마크다운 참고자료
 
-[https://github.github.com/gfm/](https://github.github.com/gfm/)
+만약 마크다운 문법에 대해 궁금하다면...
+
+- 사용법 정리([김지헌님](https://gist.github.com/ihoneymon)): https://gist.github.com/ihoneymon/652be052a0727ad59601
+- GFM 이모지 커닝페이퍼([@rxaviers](https://gist.github.com/rxaviers)): https://gist.github.com/rxaviers/7360908
+- GFM 공식 매뉴얼: https://github.github.com/gfm/
+
 
 
 ## 진행상황
 | 주차 | 문제 | [@murry2018](https://github.com/murry2018) | [@moodmine](https://github.com/moodmine) | [@happy-oh](https://github.com/happy-oh) |
 |---------|-----|------------------------------------------|-------|-------|
-| 5월 2주차 | SWEA 1209 |  |  |  |
-| 5월 2주차 | SWEA 1210 |  |  |  |
-| 5월 2주차 | SWEA 1211 |  |  |  |
+| 5월 2주차 | SWEA 1209 | :white_check_mark: | :white_check_mark: |  |
+| 5월 2주차 | SWEA 1210 | :white_check_mark: | :white_check_mark: |  |
+| 5월 2주차 | SWEA 1211 | :white_check_mark: | :white_check_mark: |  |
+| 5월 3주차 | SWEA 1213 |  | :white_check_mark: |  |
+| 5월 3주차 | SWEA 1215 |  | :white_check_mark: |  |
+| 5월 3주차 | SWEA 1216 |  | :white_check_mark: |  |
