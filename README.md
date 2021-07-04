@@ -47,3 +47,12 @@
 | 21W19 | SWEA 1217 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 21W19 | SWEA 1218 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 21W19 | SWEA 1219 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 21W20 | SWEA 1222 | :white_check_mark: | :white_check_mark: |  |
+| 21W20 | SWEA 1223 | :white_check_mark: | :white_check_mark: |  |
+| 21W20 | SWEA 1224 | :white_check_mark: | :white_check_mark: |  |
+| 21W21 | SWEA 1225 | :white_check_mark: | :white_check_mark: |  |
+| 21W21 | SWEA 1226 | :white_check_mark: | :white_check_mark: |  |
+| 21W21 | SWEA 1227 | :white_check_mark: | :white_check_mark: |  |
+| 21W25 | SWEA 1228 | :white_check_mark: | :white_check_mark: |  |
+| 21W25 | SWEA 1229 | :white_check_mark: | :white_check_mark: |  |
+| 21W25 | SWEA 1230 | :white_check_mark: | :white_check_mark: |  |
