@@ -56,3 +56,6 @@
 | 21W25 | SWEA 1228 | :white_check_mark: | :white_check_mark: |  |
 | 21W25 | SWEA 1229 | :white_check_mark: | :white_check_mark: |  |
 | 21W25 | SWEA 1230 | :white_check_mark: | :white_check_mark: |  |
+| 21W26 | SWEA 1231 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 21W26 | SWEA 1233 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 21W26 | SWEA 1232 | :white_check_mark: | :white_check_mark: |  |
